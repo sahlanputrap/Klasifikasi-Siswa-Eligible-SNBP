@@ -3,7 +3,7 @@ numpy
 pandas
 matplotlib
 scikit-learn
-sklearn
 seaborn
 imbalanced-learn
 scipy
+
