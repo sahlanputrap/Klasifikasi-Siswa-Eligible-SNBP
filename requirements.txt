@@ -1,5 +1,4 @@
 pip
-pickle
 streamlit
 Image
 numpy
@@ -13,3 +12,4 @@ seaborn
 imbalanced-learn
 scipy
 warnings
+
