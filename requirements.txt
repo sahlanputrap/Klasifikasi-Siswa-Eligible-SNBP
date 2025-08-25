@@ -1,3 +1,4 @@
+pip
 pickle
 streamlit
 Image
@@ -12,4 +13,3 @@ seaborn
 imbalanced-learn
 scipy
 warnings
-pip
